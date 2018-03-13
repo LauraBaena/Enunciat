@@ -7,6 +7,8 @@ package cubesystem3d;
  *
  * @author bernat
  */
+ 
+ //Canvi 2
 public class RainMan {
 
     private int day;
